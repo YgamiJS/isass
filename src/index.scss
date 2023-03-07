@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  .o {
+    @apply bg-red-500 text-gray-500 w-[500px] h-[50px];
+  }
+}
